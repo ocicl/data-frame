@@ -1,0 +1,9 @@
+* data-frame
+
+Data frames for Common Lisp
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/Lisp-Stat/data-frame.git |
+| commit  | 6f02e58                                         |
+| systems | data-frame                                      |
+|---------+-------------------------------------------------|
