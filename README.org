@@ -4,6 +4,6 @@ Data frames for Common Lisp
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/Lisp-Stat/data-frame.git |
-| commit  | ebd11b1                                         |
+| commit  | 92c0e41                                         |
 | systems | data-frame                                      |
 |---------+-------------------------------------------------|
